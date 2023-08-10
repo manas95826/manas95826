@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Chopra🐳🌟</h1>
-<h3 align="center">A passionate Machine Learning Developer.</h3>
+<h3 align="center">A passionate Machine Learning Developer.</h3> <br> <br>
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
