@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas95826&label=Profile%20views&color=0e75b6&style=flat" alt="manas95826" /> </p>
 <p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0itpDGuYniBTo_y9R59szZ&ust=1691775077591000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDZx7bP0oADFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmachine-learning-artificial-intelligence-gif-24276483&psig=AOvVaw0jNOgE9bTZ1fsD4G0PPw9X&ust=1691775790890000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDr4YrS0oADFQAAAAAdAAAAABAR).gif" alt="manas95826"/>
-</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manas95826" alt="manas95826" /></a> </p>
