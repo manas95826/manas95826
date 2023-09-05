@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **manaslucifercr7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oy3mClzSSb9l0PZsi4vD2o1I_tXEc95_/view?usp=sharing](https://drive.google.com/file/d/1oy3mClzSSb9l0PZsi4vD2o1I_tXEc95_/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1oy3mClzSSb9l0PZsi4vD2o1I_tXEc95_/view?usp=sharing
 
 - ⚡ Fun fact **I dance when I'm alone :D**
 <br><br>
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manas-chopra-6768ba204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manas-chopra-6768ba204/" height="30" width="40" /></a>
 <a href="https://kaggle.com/manaschopra9528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manaschopra9528" height="30" width="40" /></a>
-<a href="https://instagram.com/themanas.021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themanas.021" height="30" width="40" /></a>
+<a href="https://instagram.com/themanas.021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themanas.ai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/themanas95826" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="themanas95826" height="30" width="40" /></a>
 </p>
 <br><br>
