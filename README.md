@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Large Language Models(LLMs)**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects**
 
