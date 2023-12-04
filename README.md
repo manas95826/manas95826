@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Chopra🐳🌟</h1>
+<img src="https://media.giphy.com/media/XRB1uf2sdW22vmpL6b/giphy.gif" alt="Machine Learning Gif" width="100%" height="auto">
 <h3 align="center">A passionate Machine Learning Developer.</h3> <br>
+
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
