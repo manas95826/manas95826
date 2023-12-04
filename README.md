@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Chopra🐳🌟</h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Sumeet_Agrawal%2Fintroduction-to-deep-learning-4410c5fb5a9a&psig=AOvVaw3duULLY0jb4TxaaF31KP2v&ust=1701763805042000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjLiauq9YIDFQAAAAAdAAAAABAn" alt="Machine Learning Gif" width="100%" height="auto">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Sumeet_Agrawal%2Fintroduction-to-deep-learning-4410c5fb5a9a&psig=AOvVaw3duULLY0jb4TxaaF31KP2v&ust=1701763805042000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjLiauq9YIDFQAAAAAdAAAAABAn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Sumeet_Agrawal%2Fintroduction-to-deep-learning-4410c5fb5a9a&psig=AOvVaw3duULLY0jb4TxaaF31KP2v&ust=1701763805042000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjLiauq9YIDFQAAAAAdAAAAABAn)" alt="Machine Learning Gif" width="100%" height="auto">
 <h3 align="center">A passionate Machine Learning Developer.</h3> <br>
 
 
