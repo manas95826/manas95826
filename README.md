@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manas Chopra🐳🌟</h1>
-<p align="center"><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
 <h3 align="center">A passionate Machine Learning Developer.</h3> <br>
 
 
