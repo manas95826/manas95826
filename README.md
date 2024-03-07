@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manaslucifercr7@gmail.com**
 
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1e9Y5kDfRPIukU976TOA8VPAVpnt_ynT1/view?usp=sharing" target="_blank">resume</a>
+- 📄 Know about my experiences in my <a href="[https://drive.google.com/file/d/1e9Y5kDfRPIukU976TOA8VPAVpnt_ynT1/view?usp=sharing](https://drive.google.com/file/d/11f-5LBIiZWH_RqH2Ft9cqf2kL5X9tgtW/view?usp=sharing)" target="_blank">resume</a>
 
 
 - ⚡ Fun fact **I dance when I'm alone :D**
