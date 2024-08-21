@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **AI And LLM Projects**
 
-- 💬 Ask me only **After you already Googled it!**
-
 - 📫 How to reach me **manaslucifercr7@gmail.com**
 
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1v51ZCWmIwWXdyZer81Y9s8KANUouT6us/view?usp=sharing" target="_blank">resume</a>
