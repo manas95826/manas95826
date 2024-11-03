@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Machine Learning Developer.</h3> <br>
 
 
-
 - 🌱 I’m currently learning **AI Agents and LLM Evaluation**
 
 - 👯 I’m looking to collaborate on **AI And LLM Projects**
