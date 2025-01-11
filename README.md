@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manas Chopra🐳🌟</h1>
 <h3 align="center">A passionate Machine Learning Developer.</h3> <br>
 
-
 - 🌱 I’m currently learning **AI Agents and LLM Evaluation**
-
 - 👯 I’m looking to collaborate on **AI And LLM Projects**
-
 - 📫 How to reach me **manaslucifercr7@gmail.com**
-
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1v51ZCWmIwWXdyZer81Y9s8KANUouT6us/view?usp=sharing" target="_blank">resume</a>
-
-
 - ⚡ Fun fact **I dance when I'm alone :D**
 <br><br>
 <h3 align="left">Connect with me:</h3>
@@ -29,8 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manas95826&show_icons=true&locale=en&theme=dark" alt="manas95826" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas95826&theme=fark" alt="manas95826" /></p><br><br>
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manas95826" alt="manas95826" /></a> </p><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas95826&label=Profile%20views&color=0e75b6&style=flat" alt="manas95826" /> </p>
