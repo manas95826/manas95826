@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on **AI And LLM Projects**
 - 📫 How to reach me **manaslucifercr7@gmail.com**
 - 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1v51ZCWmIwWXdyZer81Y9s8KANUouT6us/view?usp=sharing" target="_blank">resume</a>
-- ⚡ Fun fact **I dance when I'm alone :D**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
