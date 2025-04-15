@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK9O3Xo/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manas Chopra 🐳🌟</h1>
@@ -23,19 +23,19 @@
 
 ---
 
-### 🌐 Connect with me  
+### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/manas-chopra-6768ba204/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://kaggle.com/manaschopra9528" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="Kaggle" height="30" width="30" />
   </a>
   <a href="https://instagram.com/themanas.ai" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/users/themanas95826" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="30" width="30" />
   </a>
 </p>
 
@@ -77,8 +77,18 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌟 Featured Projects
 
+- [**5C-AI**](https://github.com/manas95826/5C-AI): **3D Segmentation Model** for CT abdomen organs using deep learning.
+- [**myracle-llava**](https://github.com/manas95826/myracle-llava): An interactive chatbot platform for task automation and virtual assistance.
+- [**Qdrant-fantasy-sports**](https://github.com/manas95826/Qdrant-fantasy-sports): Using Langchain and Qdrant to power a multistage AI-based fantasy sports strategy.
+  
+---
+
+### 🏆 My Followers  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manas95826&theme=onedark" />
+  <img src="https://avatars.githubusercontent.com/u/74331247?v=4" alt="follower1" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/76814721?v=4" alt="follower2" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/76741689?v=4" alt="follower3" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/76475258?v=4" alt="follower4" width="50" height="50"/>
 </p>
